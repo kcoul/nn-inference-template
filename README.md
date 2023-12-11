@@ -1,4 +1,4 @@
-#  Neural Network Inference Template for Real-Time Cricital Audio Environments
+#  Neural Network Inference Template for Real-Time Critical Audio Environments
 
 > This is a companion repository for the presentation **Real-time inference of neural networks: a practical approach for DSP engineers** at the Audio Developer Conference 2023.
 
