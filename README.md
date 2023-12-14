@@ -37,7 +37,7 @@ cmake --build cmake-build-release --config Release
 
 ## Unit Test / Benchmark
 
-To benchmark your plugin across different audio configuratioans and inference backends, you can use our test:
+To benchmark your plugin across different audio configurations and inference backends, you can use our test:
 
 ```bash
 # make shure all submodules are installed
